@@ -1,0 +1,80 @@
+.text-big{
+    font-size: 50px;
+    color:pink;
+    font-family: 'Ubuntu', sans-serif;
+}
+.text-small{
+font-size:20px;
+font-family: 'Ubuntu', sans-serif;
+}
+/*test*/
+.logo{
+    width:20%;
+    display:flex;
+    justify-content: center;
+   align-items: center;
+}
+.background{
+   
+    background-size:cover;
+    background-blend-mode:pink;
+    height: 110%;
+    
+}
+.logo img{
+    width:33%;
+   border:3px solid white;
+    border-radius: 50px;
+    justify-content: left;
+}
+.section{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    max-width: 100%;
+    font-family: 'Ubuntu', sans-serif;
+}
+.section-left{
+    
+   flex-direction:row-reverse;
+}
+.text-big1{
+    color:red;
+    font-size: 40px;
+}
+
+
+.paras{
+    padding:0px 50;
+}
+.sectionSubTag{
+    font-family:'Segoe UI',Tamoha,Geneva,Verdana,sans-serif;
+}
+.thumbnail img{
+    border:2px solid black;
+    border-radius:26px;
+}
+
+.text-small1{
+    font-size:100px;
+    background-color: blueviolet;
+    font-family: 'Ubuntu', sans-serif;
+    }
+.thumb{
+    border:2px solid black;
+    border-radius:10px;
+    width: 335px;
+
+}
+.sectionSubTag{
+    padding: 16px 0;
+}
+.section-right{
+    
+    flex-direction:row-reverse;
+ }
+ .section-top{
+    
+    flex-direction:row-reverse;
+ }

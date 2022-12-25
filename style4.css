@@ -1,0 +1,123 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color: antiquewhite;
+    
+}
+.text-big{
+    font-size: 80px;
+    color:pink;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.text-small{
+font-size:18px;
+
+text-align: center;
+color: grey;
+}
+.text-big1{
+    font-size: 30px;
+    color:palegreen;
+    text-align: center;
+    color: rgb(170, 113, 38);
+    text-align: left;
+}
+.text-big2{
+    font-size: 30px;
+    color:palegreen;
+    text-align: center;
+    color: rgb(170, 113, 38);
+    text-align: left;}
+.text-small1{
+font-size:18px;
+
+text-align: center;
+color: grey;
+text-align: left;
+}
+.paras{
+    padding:0px 50;
+}
+.background{
+  /*  background: rgba(0, 0, 0, 0.7) url('aaa.webp');*/
+    background-size:cover;
+    background-blend-mode:darken;
+    height: 100%;
+}
+.p{
+    float: right;
+    
+    width: 40%;
+    border:3px solid white;
+    border-radius: 50px;
+}
+.ank{
+    float: right;
+    
+    width: 40%;
+    border:3px solid white;
+    border-radius: 50px;
+}
+h3{
+    color: indianred;
+    font-size: 50px;
+}
+
+.a{
+    font-size: 20px;
+    color:blueviolet;
+}
+.b{
+    font-size: 20px;
+    color:rgb(81, 18, 136);
+}
+.c{font-size: 20px;
+    color:rgb(106, 204, 143);
+}
+.d{font-size: 20px;
+    color:rgb(209, 154, 70);
+}
+.e{
+    font-size: 20px;
+    color:brown;
+}
+.list{
+
+    height: 50%;
+}
+.f{font-size: 20px;
+    color:rgb(43, 39, 40);
+}
+.g{
+    font-size: 20px;
+    color:rgb(240, 33, 95);
+}
+.h{
+    font-size: 20px;
+    color:yellowgreen;
+}
+.i{
+    font-size: 20px;
+    color:rgb(40, 44, 31);
+}
+.j{
+    font-size: 20px;
+    color:rgb(55, 78, 8);
+}
+.k{
+    font-size: 20px;
+    color:rgb(105, 127, 138);
+}
+.kann{
+    
+    
+        flex-direction:row-reverse;
+     
+}
